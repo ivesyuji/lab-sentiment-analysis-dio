@@ -12,7 +12,7 @@ Para começar, precisamos provisionar o serviço de Language no Azure, que será
 1. Acesse o **Portal do Azure** em [https://portal.azure.com](https://portal.azure.com) e faça login com sua conta Microsoft.
 2. No menu superior esquerdo (as três barras), navegue até **"IA + Machine Learning"** e selecione **"Language"**. Em seguida, clique em **"Criar"**.
 
-![[Passo 01.png]]
+!(images/01.png)
     
 3. Confirme sua intenção clicando em **"Continuar"**.
 
