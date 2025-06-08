@@ -12,11 +12,11 @@ Para começar, precisamos provisionar o serviço de Language no Azure, que será
 1. Acesse o **Portal do Azure** em [https://portal.azure.com](https://portal.azure.com) e faça login com sua conta Microsoft.
 2. No menu superior esquerdo (as três barras), navegue até **"IA + Machine Learning"** e selecione **"Language"**. Em seguida, clique em **"Criar"**.
 
-![Imagem 01](images/01.png)
+![](images/01.png)
     
 3. Confirme sua intenção clicando em **"Continuar"**.
 
-![[Captura de tela 2025-06-08 174134.png]]
+![](images/02.png)
     
 4. Preencha as informações básicas para o seu novo recurso:
 
@@ -27,7 +27,7 @@ Para começar, precisamos provisionar o serviço de Language no Azure, que será
 - **Região de Pesquisa do Azure:** Escolha qualquer localização disponível próxima a você (ex: "Brazil South" ou "East US").
 - **Nível de Preço da Pesquisa do Azure:** Selecione **F (Gratuito - 3 índices)**. Se esta opção não estiver disponível, escolha **Padrão S (50 índices)**.
 
-![[Passo 03.png]]
+![](images/03.png)
 
 5. Clique em **Revisar e Criar** e, em seguida, em **Criar** . Aguarde a implantação do serviço de idioma que dará suporte à sua base de conhecimento de resposta a perguntas personalizada.
 
@@ -39,7 +39,7 @@ Com o recurso de linguagem provisionado, agora podemos acessar o Language Studio
     
 2. Na tela inicial do Language Studio, na seção "Classificar texto", clique em **"Analisar sentimentos e minerar opiniões"**.
 
-![[Pasted image 20250608175118.png]]
+![](images/04.png)
     
 3. Você será direcionado para a interface de análise. Aqui, você pode colar seu texto, selecionar o idioma e executar a análise.
     
@@ -47,24 +47,26 @@ Com o recurso de linguagem provisionado, agora podemos acessar o Language Studio
 
 4. Após inserir o texto e selecionar o idioma, clique no botão **"Run"** para executar a análise.
 
-![[Pasted image 20250608180008.png]]
+![](images/05.png)
 
 ## Resultados
 
-![[Pasted image 20250608180302.png]]
+![](images/06.png)
 
-![[Pasted image 20250608180353.png]]
+![](images/07.png)
 
-![[Pasted image 20250608180409.png]]
+![](images/08.png)
 
-![[Pasted image 20250608180428.png]]
+![](images/09.png)
 
-![[Pasted image 20250608180449.png]]
+![](images/10.png)
 
-![[Pasted image 20250608180459.png]]
-![[Pasted image 20250608180549.png]]
+![](images/11.png)
 
-![[Pasted image 20250608180533.png]]
+![](images/12.png)
+
+![](images/13.png)
+
 ## Conclusão
 
 Este laboratório foi uma jornada prática imersiva no universo da Inteligência Artificial aplicada à análise de fala e linguagem natural com os serviços do Azure. Ao longo do processo, aprendi como funciona a criação de recursos no Azure e, ao mesmo tempo, pude explorar e compreender como a Inteligência Artificial interpreta e extrai insights significativos de dados de voz e texto.
